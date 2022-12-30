@@ -2,6 +2,7 @@
 DGPF-RENet: A new architecture with low data dependence and fast convergence for hyperspectral image classification
 
 Because we have added the activation function swish that is not available in the keras library, please add the function in keras.activation.py. The code segment is as follows:
+\ ```
 def swish(x):
     """based on Swish activation function.
     # Arguments
@@ -19,3 +20,4 @@ def swish(x):
         except AttributeError:
             pass
     return x * K.sigmoid(x)
+\ ```

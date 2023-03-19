@@ -1,5 +1,5 @@
 # DGPF-RENet
-DGPF-RENet: A new architecture with low data dependence and fast convergence for hyperspectral image classification (Submitted to TGRS)
+DGPF-RENet: A Low Data Dependency Network For Hyperspectral Image Classification (Submitted to TGRS)
 
 Now we have released the core code algorithm, and the complete project will be open source when the paper is accepted.
 

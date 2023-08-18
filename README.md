@@ -1,5 +1,5 @@
 # DGPF-RENet
-DGPF-RENet: A Low Data Dependency Network For Hyperspectral Image Classification (Submitted to TGRS).
+DGPF-RENet: A Low Data Dependency Network For Hyperspectral Image Classification (Accepted by TGRS).
 
 Because we have added the activation function swish that is not available in the keras library, please add the function in keras.activation.py.
 
